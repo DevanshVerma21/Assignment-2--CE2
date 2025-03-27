@@ -6,3 +6,6 @@ We want to make this app to be able to set alarms and also use AI integration to
 
 # To add tasks in file
 just open the file and start writing task in it
+
+# license-info
+If you want to take license-info for this project contact the technical team.
