@@ -4,3 +4,6 @@ SCM file Completion
 Learing Arrays in C
 Go to Classes
 Practice more arrays questions
+Doing some maths 
+Stay Hydrated
+Have proper mails
